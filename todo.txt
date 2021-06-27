@@ -2,9 +2,9 @@
 
     ---------------------- checklist-----------------------------
 
-    [🟡] Validate the request
-    [🔴] authorise the request
-    [🔴] check already registered user
+    [🟢] Validate the request
+    [🟢] authorise the request
+    [🟢] check already registered user
     [🔴] prepare model
     [🔴] store in DB
     [🔴] generate JWT token
