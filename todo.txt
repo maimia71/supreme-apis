@@ -1,8 +1,19 @@
-[] Register a user.
-[] Login a user
-[] Who am I
-[] Add new product
-[] Update a product
-[] Get all products
-[] Get single product
-[] Delete a product
+[🔴] Register a user.
+
+    ---------------------- checklist-----------------------------
+
+    [🟡] Validate the request
+    [🔴] authorise the request
+    [🔴] check already registered user
+    [🔴] prepare model
+    [🔴] store in DB
+    [🔴] generate JWT token
+    [🔴] send response
+
+[🔴] Login a user
+[🔴] Who am I
+[🔴] Add new product
+[🔴] Update a product
+[🔴] Get all products
+[🔴] Get single product
+[🔴] Delete a product
